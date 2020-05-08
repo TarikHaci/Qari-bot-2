@@ -7,7 +7,7 @@ This project is still under development
 ### On Ubuntu
 - `sudo apt install nodejs npm`
 ### On Windows
-Download and install the latest stable version from https://nodejs.org/en/
+- Download and install the latest stable version from https://nodejs.org/en/
 ## Install ffmpeg
 ### On Ubuntu
 - `sudo apt-get install ffmpeg`
