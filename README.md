@@ -3,11 +3,17 @@
 🤖 A music discord bot
 This project is still under development
 
-## Requirements 
-* [youtube-dl](https://github.com/rg3/youtube-dl/)
-  * Install via pip: sudo -H pip install --upgrade youtube-dl
-* ffmpeg
-  * Ubuntu: sudo apt-get install ffmpeg
+## Install node.js
+### On Ubuntu
+- `sudo apt install nodejs npm`
+### On Windows
+Download and install the latest stable version from https://nodejs.org/en/
+## Install ffmpeg
+### On Ubuntu
+- `sudo apt-get install ffmpeg`
+### On Windows
+- Download ffmpeg 64-bit build from http://ffmpeg.zeranoe.com/builds/
+- Unzip it and add its dirctory `[path]ffmpeg\bin` to the Path variable in the System Environment Variables
 ## Config
 * token: discord token
 * youtubeToken: youtube token to search and get video links
